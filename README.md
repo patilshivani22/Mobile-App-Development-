@@ -1,7 +1,7 @@
 # Mobile-App-Development-
 
 
-To install Android Studio on Windows, follow these steps:
+<h1>To install Android Studio on Windows, follow these steps:</h1>
 
 If you downloaded an .exe file (recommended), double-click to launch it.
 
