@@ -28,3 +28,15 @@ startActivity(intent);</p>
 
 Intent i = new Intent(getApplicationContext(), ActivityTwo.class);  
 startActivity(i);  </p>
+
+
+
+
+<h5>This Layouts_Android consists four types of layout design with its xml and java file</h5>
+<p> Consists of all Four .JAVA file
+<a href="https://github.com/patilshivani22/Mobile-App-Development-/tree/main/Layouts_Android/myapplication"> myapplication</a>
+
+Consists of all Four .XML file
+<a href="https://github.com/patilshivani22/Mobile-App-Development-/tree/main/Layouts_Android/layout"> layout</a>
+
+</p>
